@@ -22,3 +22,7 @@
     Forms and Validation
     Filters & Mixins
 
+# Vue CLI
+# Vue Router
+# Vue DevTools
+# Nuxt.js
